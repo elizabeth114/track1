@@ -1,18 +1,40 @@
 import sqlite3
 
 class Athlete():
-    def __init__(self, first, last, school, athlete_id, grad_year=None):
+    def __init__(self, first, last, school, athlete_id, gender, grad_year=None):
         self.first = first
         self.last = last
         self.school = school
+        self.gender = gender
         self.grad_year = grad_year
         self.athlete_id = athlete_id
 
 class Event(enum.Enum):
+    60m = 's'
     100m = 's'
     200m = 's'
     400m = 's'
+    800m = 's'
+    1500m = 's'
+    mile = 's'
+    3000m = 's'
+    5000m = 's'
+    10000m = 's'
+    60h = 's'
+    100h = 's'
+    110h = 's'
+    400h = 's'
+    3000sc = 's'
+    lj = 'm'
+    hj = 'm'
     tj = 'm'
+    sp = 'm'
+    wt = 'm'
+    disc = 'm'
+    jav = 'm'
+    pv = 'm'
+    ht = 'm'
+
 
 class Performance():
     def __init__(self, event, mark, athlete_id, date, meet_id):
@@ -28,9 +50,8 @@ class Meet():
         self.meet_name = meet_name
         self.date = date
 
-def add_athlete(first, last, school, grad_year=None):
-    conn = sqlite3.connect('example.db')
-    c = conn.cursor()
+def add_athlete(first, last, school, generd, grad_year=None):
+    pass
 
 def drop_tables():
     conn = sqlite3.connect('example.db')
@@ -44,7 +65,7 @@ def drop_tables():
 def create_tables():
     conn = sqlite3.connect('example.db')
     c = conn.cursor()
-    c.execute("""CREATE TABLE IF NOT EXISTS athletes (text first, text last, text school, int athlete_id, int grad_year)""")
+    c.execute("""CREATE TABLE IF NOT EXISTS athletes (text first, text last, text school, int athlete_id, text gender, int grad_year)""")
     c.execute("""CREATE TABLE IF NOT EXISTS performances (text event, float mark, int athlete_id, date our_date, int meet_id)""")
     c.execute("""CREATE TABLE IF NOT EXISTS meets (int meet_id, text meet_name, date our_date)""")
     conn.commit()
