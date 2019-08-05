@@ -11,6 +11,7 @@ class Athlete():
 class Event(enum.Enum):
     100m = 's'
     200m = 's'
+    400m = 's'
     tj = 'm'
 
 class Performance():
