@@ -13,6 +13,7 @@ class Athlete():
         if self.athlete_id is None:
             self.athlete_id = get_next_athlete_id(c)
         c.execute("""INSERT INTO athletes VALUES(?,?,?,?,?,?)""",(self.first, self.last, self.school, self.athlete_id, self.gender, self.grad_year))
+        return self.athlete_id
 
     def get_athlete_id(self):
         return self.athlete_id
@@ -59,7 +60,7 @@ def get_next_athlete_id(c):
         return next[0] +1
 
 def get_next_meet_id(c):
-    next = c.execute("""SELECT meet_id FROM meets ORDER BY athlete_id DESC""").fetchone()
+    next = c.execute("""SELECT meet_id FROM meets ORDER BY meet_id DESC""").fetchone()
     if next is None:
         return 1
     else:
@@ -93,6 +94,21 @@ def get_event_pr(c, id, event):
 
 def get_all_for_event(c, id, event):
     return c.execute("""SELECT mark FROM performances WHERE athlete_id=? AND event=? ORDER BY mark DESC""",(id,event)).fetchall()
+
+def get_id_by_name_school_grade(c, first, last, school, grade):
+    id = c.execute("""SELECT athlete_id FROM athletes WHERE first=? AND last=? AND school=? AND grad_year=?""",(first,last, school, grade)).fetchone()
+    if id is None or len(id)==0:
+        print(id)
+        return None
+    else:
+        return id[0]
+
+def get_all_performances(c):
+    return c.execute("""SELECT * FROM performances""").fetchall()
+
+def get_event_performances(c, event):
+    return c.execute("""SELECT * FROM performances WHERE event=? ORDER BY mark DESC""", (event,)).fetchall()
+
 
 def drop_tables():
     conn = sqlite3.connect('example.db')
@@ -137,8 +153,8 @@ if __name__ == "__main__":
     p7 = Performance('tj', 10.75, 2, '2019-03-28', 4)
     p6.to_database(c)
     p7.to_database(c)
-    p8 = Performance('tj', 11.03, 3, '2019-04-28', 1)
-    p9 = Performance('tj', 10.78, 3, '2019-03-28', 4)
+    p8 = Performance('tj', 12.03, 3, '2019-04-28', 1)
+    p9 = Performance('tj', 8.78, 3, '2019-03-28', 4)
     p8.to_database(c)
     p9.to_database(c)
 
