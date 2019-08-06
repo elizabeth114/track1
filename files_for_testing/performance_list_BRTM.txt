@@ -1,0 +1,847 @@
+#1 Men's 100 Meters
+12:22, 2:05
+Name Yr Team Time
+1 KARDONSKY, Anthony SR Tufts 10.96
+2 WILSON, Zaire JR RPI 11.16
+3 ABATE, Jordan JR Tufts 11.22
+4 MILLER, Thomas SR Tufts 11.36
+5 LEVENSTEIN, Brandon SR Tufts 11.37
+6 LEMON, Milan SO Bates 11.40
+7 TISCHLER, Hunter SR RPI 11.46
+8 LAMBE, Desmond FR RPI 11.60
+9 BRAUN, Jared SO RPI 11.63
+10 REDA, Anas JR Bates 11.82
+11 MATHEWS, Roy SO Bates 12.20
+12 SHAO, Andrew FR MIT NT
+13 LIU, Alex FR MIT NT
+#2 Women's 100 Meters
+12:15, 2:00
+Name Yr Team Time
+1 MENKITI, Michelle JR MIT 12.36
+2 DALAKOS, Sarah JR RPI 12.64
+3 MORIN, Kathryn FR RPI 12.99
+4 STRILECKIS, Alina JR Tufts 13.02
+5 STEINER, Olivia SO Tufts 13.20
+6 KILES, Franny JR Tufts 13.50
+7 SHOULTA, Sarah SR Bates 14.00
+8 MELVIN, Claire FR MIT NT
+#3 Men's 200 Meters
+2:40
+Name Yr Team Time
+1 WILSON, Benton SO MIT 22.03
+2 KARDONSKY, Anthony SR Tufts 22.13
+3 ARMSTRONG, OJ SO Tufts 22.28
+4 CORLEY, Ryan SR Bates 22.58
+5 DUCHATELLIER, Nick FR MIT 22.80
+6 CASIMIR, Neil SO RPI 23.09
+7 MCNICHOLAS, Michael JR RPI 23.25
+8 LEVENSTEIN, Brandon SR Tufts 23.34
+9 WILSON, Zaire JR RPI 23.40
+10 DOYLE, Tom SR Tufts 23.45
+11 KAMSON, Temidayo JR RPI 23.50
+12 LIU, Alex FR MIT 23.59
+13 O'BERG, Evan FR RPI 23.65
+14 HIRSCH, Jack FR Tufts 23.80
+15 JENKINS, Ky FR Bates 23.89
+16 TISCHLER, Hunter SR RPI 24.00
+#3 Men's 200 Meters (cont'd)
+Name Yr Team Time
+17 BENNETT, Michael SR Bates 24.00
+18 REDA, Anas JR Bates 24.18
+19 BRAUN, Jared SO RPI 24.40
+20 CORDEIRO, Nicholas FR RPI 24.50
+21 FALLER, Aiden SO Bates 26.00
+22 MATHEWS, Roy SO Bates 27.85
+#4 Women's 200 Meters
+2:35
+Name Yr Team Time
+1 MENKITI, Michelle JR MIT 25.87
+2 ISHAMUDDIN, Sarah SO MIT 26.50
+3 MACHADO, Luana FR Tufts 26.65
+4 LOWENSOHN, Tara FR Tufts 26.70
+5 SCHWERN, Olivia SO Tufts 26.80
+6 NEILON, Hannah FR Tufts 26.90
+7 DESMITH, Kylene SR Tufts 27.00
+8 STRILECKIS, Alina JR Tufts 27.20
+9 KILES, Franny JR Tufts 27.30
+10 KIRK, Jacqueline SO Tufts 27.30
+11 DALAKOS, Sarah JR RPI 27.35
+12 DUFFY, Emily-Claire FR Bates 27.39
+13 DAWSON, Brita SR Tufts 27.40
+14 SHOULTA, Sarah SR Bates 27.50
+15 MORIN, Kathryn FR RPI 27.69
+16 RICHTAREK, Alyssa SO RPI 27.90
+17 FROMBACH, Kristen SR MIT 28.12
+18 PORTER, Jordan FR RPI 28.50
+19 BLACKSHAW, Lily JR Tufts 28.50
+20 GRAUMANN, Emily FR Bates 29.39
+21 KENNEDY, Joanna FR MIT NT
+#5 Men's 400 Meters
+1:52
+Name Yr Team Time
+1 DOYLE, Tom SR Tufts 49.02
+2 DUCHATELLIER, Nick FR MIT 49.50
+3 CASIMIR, Neil SO RPI 49.62
+4 WILSON, Benton SO MIT 49.67
+5 PATTEN, Riley FR Tufts 50.78
+6 NABRITT, Miles SO Bates 50.80
+7 OOMEN-LOCHTEFELD FR Tufts 51.38
+8 HIRSCH, Jack FR Tufts 51.45
+9 FUSCO, Frank SR Bates 51.54
+10 O'BERG, Evan FR RPI 51.66
+11 AVALLONE, Vincent SO Tufts 52.55
+BATES-MIT-RPI-TUFTS
+Cambridge, MA
+Morrison Track
+Host: MIT
+Saturday, April 06, 2019
+MEET OFFICIALS
+Meet Director:
+Halston Taylor
+Meet Referee:
+Steve Vaitones
+Timing:
+Justin Kuo
+OFFICIAL MEET REPORT
+printed: 4/3/2019 2:51 PM
+PERFORMANCE LIST
+DirectAthletics MeetPro 1
+#5 Men's 400 Meters (cont'd)
+Name Yr Team Time
+12 ACQUAH, Ken JR MIT 53.00
+13 KLAIN, Daniel JR Tufts 53.44
+14 CORDEIRO, Nicholas FR RPI 54.50
+15 JENKINS, Ky FR Bates 54.50
+16 LINDBLOM, Peter FR Tufts 54.64
+17 BENNETT, Michael SR Bates 56.00
+18 GILMAN, Sam FR Bates 57.00
+#6 Women's 400 Meters
+Name Yr Team Time
+1 NEILON, Hannah FR Tufts 58.90
+2 ISHAMUDDIN, Sarah SO MIT 59.50
+3 LOWENSOHN, Tara FR Tufts 59.80
+4 MACHADO, Luana FR Tufts 59.80
+5 WHITING, Raquel JR Tufts 1:00.50
+6 MATT, Sophie FR Bates 1:00.62
+7 FROMBACH, Kristen SR MIT 1:00.92
+8 RICHTAREK, Alyssa SO RPI 1:01.05
+9 BINNS, Talia JR Bates 1:01.98
+10 PORTER, Jordan FR RPI 1:02.50
+11 NAGARWALLA, Anjolie JR Tufts 1:04.00
+12 SNOW, Casey JR Bates 1:04.00
+#7 Men's 800 Meters
+2:15
+Name Yr Team Time
+1 ALFORD, Simon JR MIT 1:54.28
+2 FOUCAULT-ETHERID FR MIT 1:56.09
+3 MCENIRY, Dylan JR Tufts 1:56.79
+4 DELANEY, Nick FR Tufts 1:56.79
+5 O'SULLIVAN, Collin FR Tufts 1:56.90
+6 FOSTER, Reed FR MIT 1:56.93
+7 GANGADHARAN, Quin FR RPI 1:57.00
+8 ERTEL, Ben SO RPI 1:58.29
+9 RAJAGOPAL, Ellery SO MIT 1:58.53
+10 SCHOFIELD, Matt FR MIT 2:00.12
+11 BARKER, Christopher SO Bates 2:00.43
+12 GUTIERREZ, Matthew SO RPI 2:00.61
+13 SOMMA, Michael SR Bates 2:01.00
+14 BERRAFATI, Joe SO Tufts 2:02.00
+15 VILLEGAS, Dieter FR Bates 2:06.00
+#8 Women's 800 Meters
+2:10
+Name Yr Team Time
+1 TREGONING, Bailey SR MIT 2:12.73
+#8 Women's 800 Meters (cont'd)
+Name Yr Team Time
+2 GAKE, Julia JR Tufts 2:18.00
+3 PEREZ, Madison FR RPI 2:19.70
+4 NOBLE, Julia SR Tufts 2:20.00
+5 LAMBERT, Elise FR Bates 2:20.00
+6 KIM, So SO Bates 2:20.00
+7 BROOKS, Skylar JR MIT 2:22.00
+8 CORCORAN, Mary FR Bates 2:22.00
+9 ANDERSEN, Kristen SO Tufts 2:23.00
+10 MURRAY, Emily SO Tufts 2:23.84
+11 MOKY, Alison FR Tufts 2:25.00
+12 LEVINE, Sarah JR Tufts 2:27.00
+13 SILVEIRA, Isabella SO Tufts 2:27.00
+14 CLARK, Katie SR RPI 2:28.77
+#9 Men's 1500 Meters
+1:20
+Name Yr Team Time
+1 FALASCO, Noah SO RPI 3:55.00
+2 O'CONNOR, Grant SR RPI 3:56.00
+3 SLANEY, Kent SO MIT 3:56.65
+4 O'CONNOR, Sean SR RPI 3:58.00
+5 PUTRINO, Vince JR RPI 3:59.00
+6 DOMANICO, Joe JR RPI 3:59.00
+7 JAQUES, Henry SO RPI 3:59.00
+8 WATANABE, Hiroto SR Tufts 3:59.00
+9 DOBLAR, Dylan SO MIT 4:00.45
+10 O'SULLIVAN, Collin FR Tufts 4:01.00
+11 BUCKMAN, Rory SR Tufts 4:02.00
+12 FAVATA, Dom FR RPI 4:03.00
+13 REANEY, Brian SR Tufts 4:03.00
+14 COLT, Henry SR Bates 4:04.90
+15 WAX, Ian SR Bates 4:05.14
+16 SCHERB, Daniel JR RPI 4:06.00
+17 ELKINS, Jackson FR Bates 4:06.00
+18 FUSCO, Mark SR Bates 4:06.00
+19 BERRAFATI, Joe SO Tufts 4:07.00
+20 JORGENSEN, Jakob SO MIT 4:10.00
+21 BETZ, Ryan SR Bates 4:10.99
+22 COOPER, Jake FR RPI 4:12.00
+23 GIZZO, Dan FR Tufts 4:12.00
+24 MARKS, Brandon FR RPI 4:15.00
+25 KENNEDY, Michael SO Tufts 4:18.00
+26 CLAYTON, Matthew FR Bates 4:20.00
+27 STIGALL, Alex FR Bates 4:30.00
+28 HULEATT, Ethan JR Bates 4:39.08
+29 HEWINGS, Will FR Tufts NT
+BATES-MIT-RPI-TUFTS
+Cambridge, MA
+Morrison Track
+Host: MIT
+Saturday, April 06, 2019
+MEET OFFICIALS
+Meet Director:
+Halston Taylor
+Meet Referee:
+Steve Vaitones
+Timing:
+Justin Kuo
+OFFICIAL MEET REPORT
+printed: 4/3/2019 2:51 PM
+PERFORMANCE LIST
+DirectAthletics MeetPro 2
+#9 Men's 1500 Meters (cont'd)
+Name Yr Team Time
+30 HEMPSTEAD, Philip FR Tufts NT
+#10 Women's 1500 Meters
+1:10
+Name Yr Team Time
+1 MCPHILLIPS, Marissa JR MIT 4:33.58
+2 TRAUTNER, Margaret JR MIT 4:39.19
+3 TOTH, Rhemi JR Tufts 4:40.00
+4 EICKHOFF, Ayden SR Bates 4:40.00
+5 BOND, Maggie JR RPI 4:46.00
+6 STURM, Maddie SR RPI 4:48.00
+7 DIAZ, Lauren JR Tufts 4:48.85
+8 CAPLAZI, Isabel SO RPI 4:49.00
+9 GRIM, Autumn JR RPI 4:50.00
+10 MARTIN, Olivia SO Tufts 4:55.00
+11 ROTHMANN, Sarah SR Bates 4:55.00
+12 PAOLELLA, Vanessa SO Bates 4:55.00
+13 JACKSON, Jennifer JR Tufts 5:00.00
+14 WEST, Sierra FR RPI 5:09.85
+15 ROSS, Johanna SO Tufts 5:10.00
+16 KRUPA, Jennifer JR Tufts 5:10.00
+17 MEMISHIAN, Wendy SR Bates 5:10.00
+18 BLUNDO, Emily JR RPI 5:11.22
+19 KELLEY, Erin SO RPI 5:20.00
+20 MOGAN, Sarah SR RPI 5:24.67
+21 GONZALEZ, Mariana JR RPI 5:26.00
+22 MILLER, Hailey SO RPI 5:30.00
+23 OLIVER, Madeleine SO Tufts 5:50.00
+24 BEAGLE, Jenna FR Bates NT
+25 ANDREWS, Loren FR Bates NT
+26 ELLARD, Tara FR Bates NT
+#13 Men's 5000 Meters
+3:15
+Name Yr Team Time
+1 MAH, Andrew FR MIT 14:49.27
+2 REED, John SO RPI 14:58.73
+3 LACOURT, Erik SO RPI 14:59.00
+4 NAPORA, Danny JR RPI 14:59.00
+5 KLOMAN, Jake JR RPI 15:05.00
+6 DAVIS, Jacob SO RPI 15:11.00
+7 CAPOBIANCO, Johnny JR RPI 15:15.00
+8 LEVINE, Justin JR Bates 15:15.99
+9 DERRICK, Josh JR MIT 15:17.73
+10 JACOBSON-S, Finn SO MIT 15:20.00
+11 NEALIS, Ryan SO Bates 15:20.00
+#13 Men's 5000 Meters (cont'd)
+Name Yr Team Time
+12 GOLDY, Steven JR MIT 15:24.55
+13 GADE, Neerav FR Tufts 15:25.00
+14 GATTI, Sam FR Tufts 15:25.00
+15 WALTER, David SR MIT 15:28.02
+16 TURNER, Austin SR RPI 15:29.00
+17 ATHERTON, Evan SO RPI 15:29.49
+18 JOHNSON, Zach FR MIT 15:30.00
+19 SZABO, Owen FR RPI 15:38.00
+20 REZNIK, Nicholas FR Bates 15:40.00
+21 MCLARNON, Jack JR Bates 15:40.00
+22 JOHNSON, Nico SR Bates 15:40.00
+23 STATHOS, Nic FR Bates 15:44.36
+24 BROVENDER, Alex SO Bates 15:50.00
+25 STEVENS, Dan SO RPI 15:55.00
+26 PAPPO, John FR Tufts 15:55.00
+27 O'BRIEN, Bryce JR Bates 15:57.38
+28 SRIRAM, Shreyas SR RPI 15:59.00
+29 DONAHUE, Jackson FR Bates 16:00.00
+30 CRIST, Jordan FR RPI 16:02.00
+31 MORRISON, Ryan JR RPI 16:05.00
+32 SKENDER, Alex JR RPI 16:05.00
+33 TRIOLO, Frank FR RPI 16:05.00
+34 LLOYD, AJ FR RPI 16:05.00
+35 MASEMORE, Will SR RPI 16:10.00
+36 PARKE, Tyler SR Bates 16:20.00
+37 EVANS, Hayden FR Bates 16:25.00
+38 BARTLEY, Max FR Bates 16:45.00
+39 SMITH, Ezekiel SR Bates 16:45.00
+40 BAXTER, Morgan JR Bates 16:51.88
+#14 Women's 5000 Meters
+2:50
+Name Yr Team Time
+1 COLLINS, Katie FR MIT 16:53.81
+2 BETTEZ, Natalie JR Tufts 17:54.14
+3 BARKER, Katie SR Bates 17:59.53
+4 AUSTIN, Hannah SR Bates 18:20.19
+5 SLAGER, Anna FR Tufts 18:30.00
+6 BARNETT, Olivia JR Tufts 18:30.00
+7 SKILLING, Emily SO MIT 18:30.55
+8 KROMISH, Kassie JR RPI 18:54.06
+9 LAPLANT, Darby SR MIT 19:00.00
+10 MURRAY, Michelle SO RPI 19:21.42
+11 TROIDLE, Anneliese JR RPI 19:29.00
+12 HARRIS, Carly FR Bates 20:19.33
+13 GONZALEZ, Anais JR Bates 20:56.96
+BATES-MIT-RPI-TUFTS
+Cambridge, MA
+Morrison Track
+Host: MIT
+Saturday, April 06, 2019
+MEET OFFICIALS
+Meet Director:
+Halston Taylor
+Meet Referee:
+Steve Vaitones
+Timing:
+Justin Kuo
+OFFICIAL MEET REPORT
+printed: 4/3/2019 2:51 PM
+PERFORMANCE LIST
+DirectAthletics MeetPro 3
+#14 Women's 5000 Meters (cont'd)
+Name Yr Team Time
+14 LEONG, Chloe FR Bates 21:10.48
+15 HAMILTON, Abby SO Bates NT
+16 SKILLINGS, Olivia FR Bates NT
+#18 Women's 100m Hurdles
+12:00, 1:37
+Name Yr Team Time
+1 DESMITH, Kylene SR Tufts 15.50
+2 KAUFMAN, Amanda SO Bates 15.50
+3 WILLIS, Rebecca FR Bates 16.20
+4 SIROIS, Ileana FR RPI 16.28
+5 LEE, Lucy SO MIT 16.30
+6 HEINE, Grace JR RPI 16.63
+7 WEEKS, Elizabeth SO MIT 17.00
+8 SPAAR, Willa FR RPI 18.00
+9 SALKIND, Jillian SR RPI 18.00
+10 TEUNISSE, Charlotte JR RPI 18.00
+11 LISEC, Ellie FR RPI 19.00
+#17 Men's 110m Hurdles
+12:07, 1:30
+Name Yr Team Time
+1 ETKIND, Josh SR Tufts 14.71
+2 JONSON, Alex JR RPI 15.07
+3 KIMPOLO-PENE, Beau JR Bates 15.46
+4 KENNEDY, Joa SO MIT 15.55
+5 DONAHUE, Brendan JR Bates 15.75
+6 COYNE, Elijah SO Bates 16.19
+7 HEARD, Oseola FR Bates 16.30
+8 CROTTY, Matthew FR RPI 16.56
+9 STEIN, Ben FR Tufts 16.67
+10 BORWICK, Hunter SO RPI 17.26
+11 HINTERMEISTER, Hen SR Tufts 17.34
+12 WISE, Tim SO RPI 17.52
+13 LAMBE, Desmond FR RPI 17.85
+14 EGBE, Bate FR RPI 18.00
+15 BUTLER, Patrick JR RPI 18.00
+16 MOLZAHN, Daniel JR RPI 18.00
+17 EVANS, Liam FR Bates NT
+#57 Men's 400m Hurdles
+Name Yr Team Time
+1 WITROCK, Billy JR Tufts 55.99
+2 COYNE, Elijah SO Bates 58.00
+3 SHAO, Andrew FR MIT 58.15
+4 GILSON, Aidan SR MIT 58.59
+#57 Men's 400m Hurdles (cont'd)
+Name Yr Team Time
+5 HINTERMEISTER, Hen SR Tufts 1:00.21
+6 SMITH, Devin FR RPI 1:01.00
+7 CROTTY, Matthew FR RPI 1:03.00
+8 RIVITUSO, Raymond FR RPI 1:04.00
+9 MOLZAHN, Daniel JR RPI 1:05.00
+10 EGBE, Bate FR RPI 1:05.50
+11 WILSON, Ryan FR MIT NT
+#58 Women's 400m Hurdles
+Name Yr Team Time
+1 MELVIN, Claire FR MIT 1:05.02
+2 BLISS, Scarlet SO Tufts 1:07.50
+3 NOROWITZ, Hannah SO Tufts 1:08.00
+4 SEYMOUR, Megan JR Bates 1:08.00
+5 KUNKLE-READ, Nehal JR Tufts 1:08.50
+6 MELANSON, Jenna JR MIT 1:09.61
+7 LADNER, Sydney SR Tufts 1:10.00
+8 BLACK, Emily JR RPI 1:12.30
+9 LYONS, Joey JR RPI 1:13.40
+10 ZENGELER, Kristine SR Bates 1:14.26
+11 SPAAR, Willa FR RPI 1:16.00
+#11 Men's 3000m Steeple
+12:45
+Name Yr Team Time
+1 GILSON, Aidan SR MIT 9:09.62
+2 STEINBERG, Harry SO Tufts 9:45.40
+3 BUCKMAN, Rory SR Tufts 9:49.86
+4 RUST, Bart FR Bates 9:50.00
+5 BENNETT, Jeremy SO Bates 9:55.00
+6 TANNER, Dalton SO Tufts 10:06.43
+7 HORVATH, Peter SO Tufts 10:08.10
+8 WILSON, Ryan FR MIT NT
+#12 Women's 3000m Steeple
+12:30
+Name Yr Team Time
+1 MELANSON, Jenna JR MIT 10:41.30
+2 TIERNEY, Kelsey SR Tufts 11:25.00
+3 TUMAVICUS, Lucy FR Tufts 12:00.00
+4 NELSON, Hannah SO Tufts 12:00.00
+5 ROWLAND, Melissa SO Tufts 12:00.00
+6 KLANG, Laura SO RPI 12:10.00
+7 FAHRENHOLZ, Tory JR RPI 12:18.14
+8 ENNS, Gabrielle SO MIT NT
+BATES-MIT-RPI-TUFTS
+Cambridge, MA
+Morrison Track
+Host: MIT
+Saturday, April 06, 2019
+MEET OFFICIALS
+Meet Director:
+Halston Taylor
+Meet Referee:
+Steve Vaitones
+Timing:
+Justin Kuo
+OFFICIAL MEET REPORT
+printed: 4/3/2019 2:51 PM
+PERFORMANCE LIST
+DirectAthletics MeetPro 4
+#39 Men's 4 x 100m Relay
+1:05
+Team Time
+1 MIT (A) 43.22
+1) LIU, Alex FR 2) EWEJE, Sope SR
+3) DUCHATELLIER, Nick FR 4) WILSON, Benton SO
+2 Bates (A) 43.84
+1) LEMON, Milan SO 2) CORLEY, Ryan SR
+3) KIMPOLO-PENE, Beaufils JR 4) NABRITT, Miles SO
+5) GIUNTA, Ryan SO 6) FUSCO, Frank SR
+#40 Women's 4 x 100m Relay
+1:00
+Team Time
+1 Tufts (A) 49.18
+1) STEINER, Olivia SO 2) DAWSON, Brita SR
+3) WHITING, Raquel JR 4) SCHWERN, Olivia SO
+2 MIT (A) 49.24
+1) ANDREE, Elena FR 2) ISHAMUDDIN, Sarah SO
+3) YANG, Yilinn FR 4) MENKITI, Michelle JR
+3 Bates (A) NT
+1) BERUBE, Lauren FR 2) KAUFMAN, Amanda SO
+3) WILLIS, Rebecca FR 4) DUFFY, Emily-Claire FR
+#41 Men's 4 x 400m Relay
+3:40
+Team Time
+1 Tufts (A) 3:24.90
+1) WITROCK, Billy JR 2) DELANEY, Nick FR
+3) OOMEN-LOCHTEFELD, Sam FR 4) DOYLE, Tom SR
+2 MIT (A) 3:25.25
+1) ALFORD, Simon JR 2) FOUCAULT-ETHERIDGE, Aiden
+3) GILSON, Aidan SR 4) ACQUAH, Ken JR
+5) SLANEY, Kent SO 6)
+3 Bates (A) 3:28.00
+1) FUSCO, Mark SR 2) FUSCO, Frank SR
+3) NABRITT, Miles SO 4) EVANS, Liam FR
+5) ELKINS, Jackson FR 6)
+4 RPI (A) 3:30.00
+1) BUTLER, Patrick JR 2) ERTEL, Ben SO
+3) GANGADHARAN, Quinn FR 4) GUTIERREZ, Matthew SO
+5 RPI (B) 3:36.00
+1) SMITH, Devin FR 2) RIVITUSO, Raymond FR
+3) KAMSON, Temidayo JR 4) MCNICHOLAS, Michael JR
+6 Bates (B) 3:40.00
+1) LEMON, Milan SO 2) SOMMA, Michael SR
+3) VILLEGAS, Dieter FR 4) BARKER, Christopher SO
+#42 Women's 4 x 400m Relay
+3:35
+Team Time
+1 Tufts (A) 3:59.00
+1) LOWENSOHN, Tara FR 2) MACHADO, Luana FR
+3) NEILON, Hannah FR 4) GAKE, Julia JR
+2 Tufts (B) 4:05.00
+1) KUNKLE-READ, Nehalem JR 2) ANDERSEN, Kristen SO
+3) BLACKSHAW, Lily JR 4) WHITING, Raquel JR
+5) BLISS, Scarlet SO 6) NOBLE, Julia SR
+3 Bates (A) 4:05.00
+1) KAUFMAN, Amanda SO 2) WILLIS, Rebecca FR
+3) DUFFY, Emily-Claire FR 4) KIM, So SO
+4 Bates (B) 4:05.00
+1) MATT, Sophie FR 2) LAMBERT, Elise FR
+3) CORCORAN, Mary FR 4) EICKHOFF, Ayden SR
+5 MIT (A) 4:05.60
+1) MELVIN, Claire FR 2) TRAUTNER, Margaret JR
+3) MCPHILLIPS, Marissa JR 4) TREGONING, Bailey SR
+6 Bates (C) 4:15.00
+1) SEYMOUR, Megan JR 2) SNOW, Casey JR
+3) PAOLELLA, Vanessa SO 4) ROTHMANN, Sarah SR
+7 RPI (A) 4:16.06
+1) BLACK, Emily JR 2) PEREZ, Madison FR
+3) CLARK, Katie SR 4) SPAAR, Willa FR
+#19 Men's High Jump
+12:00, 5cm increments
+Name Yr Team Mark
+1 REDUKER, Alec JR MIT 2.10m
+2 HARRIS, Caleb FR MIT 2.00m
+3 PENNINGTON, Charles SR Tufts 2.00m
+4 SPECK, Steven JR MIT 1.95m
+5 EWEJE, Sope SR MIT 1.90m
+6 KIMPOLO-PENE, Beau JR Bates 1.90m
+7 DONAHUE, Brendan JR Bates 1.85m
+8 TRENT, Quinn FR Bates 1.80m
+9 WISE, Tim SO RPI 1.77m
+10 EVANS, Liam FR Bates 1.68m
+11 HEARD, Oseola FR Bates NM
+#20 Women's High Jump
+Following the men, 5cm increments
+Name Yr Team Mark
+1 PARKER, Lauren SR RPI 1.71m
+2 REDFIELD, Margaret SO MIT 1.64m
+3 SALKIND, Jillian SR RPI 1.63m
+4 REILLY, Liana SO MIT 1.60m
+BATES-MIT-RPI-TUFTS
+Cambridge, MA
+Morrison Track
+Host: MIT
+Saturday, April 06, 2019
+MEET OFFICIALS
+Meet Director:
+Halston Taylor
+Meet Referee:
+Steve Vaitones
+Timing:
+Justin Kuo
+OFFICIAL MEET REPORT
+printed: 4/3/2019 2:51 PM
+PERFORMANCE LIST
+DirectAthletics MeetPro 5
+#20 Women's High Jump (cont'd)
+Name Yr Team Mark
+5 GEORGIADI, Afroditi FR Tufts 1.60m
+6 KIRK, Jacqueline SO Tufts 1.60m
+7 BURNS, Shelby SR Bates 1.58m
+8 DESMITH, Kylene SR Tufts 1.50m
+9 HEINE, Grace JR RPI 1.47m
+10 CLARK, Katie SR RPI 1.46m
+11 TEUNISSE, Charlotte JR RPI 1.38m
+12 FIELDING, Paige SR Tufts 1.35m
+13 LAMBERT, Elise FR Bates NM
+#21 Men's Pole Vault
+Following the women, 15 cm increments
+Name Yr Team Mark
+1 ACKERMAN, Liam SO MIT 4.95m
+2 WALLACE, Ben SR Tufts 4.70m
+3 CAMERON, Scott SR MIT 4.55m
+4 BRANDYBERRY, Ever SO MIT 4.30m
+5 RAJCIC, Raja JR MIT 4.25m
+6 HARDY, Max SO MIT 4.25m
+7 MADDRY, Conor SR RPI 4.20m
+8 VETERE, Joseph SR RPI 4.20m
+9 LIM, Daeseob SO Tufts 4.10m
+10 HANSEN, Charlie FR Bates 3.95m
+11 BORWICK, Hunter SO RPI 3.85m
+12 STEIN, Ben FR Tufts 3.60m
+13 MANDELBAUM, Will SO RPI 3.45m
+14 KENNEDY, Joa SO MIT 3.40m
+15 FALLER, Aiden SO Bates 3.25m
+#22 Women's Pole Vault
+12:00, 15 cm increments
+Name Yr Team Mark
+1 STROMHAUG, Kari SR MIT 3.90m
+2 MARENCO, Anais FR MIT 3.72m
+3 AHRENS, Jacqueline SO MIT 3.71m
+4 PATARINO, Makenzie SR MIT 3.61m
+5 CARAGAY, Emily FR MIT 3.35m
+6 BERUBE, Lauren FR Bates 3.26m
+7 LADNER, Sydney SR Tufts 3.20m
+8 SIMMONS, Lily FR Bates 3.20m
+9 KELMAR, Sharon SR Tufts 3.10m
+10 SHIRK, Samantha SO RPI 2.75m
+11 KIEHNE, Rachel FR Tufts 2.65m
+12 BROWN, Emma SO RPI 2.60m
+13 SHIRK, Sarah SO RPI 2.60m
+#23 Men's Long Jump
+12:00, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 SHAOUL, Yorai SO MIT 7.08m
+2 MANTEIGA, Matthew SO Tufts 6.86m
+3 STEIN, Ben FR Tufts 6.67m
+4 KIMPOLO-PENE, Beau JR Bates 6.67m
+5 BUTLER, Patrick JR RPI 6.65m
+6 WILSON, Zaire JR RPI 6.57m
+7 DONAHUE, Brendan JR Bates 6.47m
+8 BARNES, Avery SO Tufts 6.46m
+9 LAMBE, Desmond FR RPI 6.43m
+10 WISE, Tim SO RPI 6.42m
+11 GIUNTA, Ryan SO Bates 6.12m
+12 GOLDSTEIN, Jeremy SO Tufts 6.11m
+13 MATTOCKS-KING, Ke JR RPI 6.09m
+14 EWEJE, Sope SR MIT 6.04m
+15 MOLZAHN, Daniel JR RPI 5.83m
+16 EVANS, Liam FR Bates 5.75m
+17 REDUKER, Alec JR MIT NM
+#24 Women's Long Jump
+12:00, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 SALKIND, Jillian SR RPI 5.32m
+2 ANDREE, Elena FR MIT 5.25m
+3 YANG, Yilinn FR MIT 5.23m
+4 SIROIS, Ileana FR RPI 5.22m
+5 NWANA, Tema SO MIT 5.19m
+6 STEINER, Olivia SO Tufts 5.15m
+7 BLISS, Scarlet SO Tufts 5.15m
+8 EZEOHA, Kathryn FR Tufts 5.13m
+9 DAWSON, Brita SR Tufts 5.09m
+10 HEINE, Grace JR RPI 4.86m
+11 DALAKOS, Sarah JR RPI 4.84m
+12 EVANS, Elizabeth FR RPI 4.80m
+13 BLUMERIS, Trish SR Tufts 4.63m
+14 VALLEE, Emily FR RPI 4.60m
+15 CLARK, Katie SR RPI 4.25m
+#25 Men's Triple Jump
+Follows Long Jump, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 SHAOUL, Yorai SO MIT 15.22m
+2 OSAHENI, Joseph SR RPI 13.19m
+3 ZSIKLA, Alex FR Tufts 12.94m
+4 LIM, Daeseob SO Tufts 12.93m
+5 BARNES, Avery SO Tufts 12.67m
+BATES-MIT-RPI-TUFTS
+Cambridge, MA
+Morrison Track
+Host: MIT
+Saturday, April 06, 2019
+MEET OFFICIALS
+Meet Director:
+Halston Taylor
+Meet Referee:
+Steve Vaitones
+Timing:
+Justin Kuo
+OFFICIAL MEET REPORT
+printed: 4/3/2019 2:51 PM
+PERFORMANCE LIST
+DirectAthletics MeetPro 6
+#25 Men's Triple Jump (cont'd)
+Name Yr Team Mark
+6 THOMAS, Ranjit JR Tufts 12.62m
+7 GIUNTA, Ryan SO Bates 12.50m
+8 NIHANGAME, Orry JR RPI 12.49m
+9 BRAUN, Jared SO RPI 12.18m
+10 WENGER, Christian JR RPI 11.85m
+11 TRENT, Quinn FR Bates 11.05m
+12 STULTZ, George FR MIT NM
+#26 Women's Triple Jump
+Follows Long Jump, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 YANG, Yilinn FR MIT 11.40m
+2 LEE, Lucy SO MIT 11.28m
+3 WEEKS, Elizabeth SO MIT 11.21m
+4 ANDREE, Elena FR MIT 11.18m
+5 EZEOHA, Kathryn FR Tufts 11.06m
+6 SIROIS, Ileana FR RPI 10.88m
+7 JIN, Mumin JR MIT 10.75m
+8 BLUMERIS, Trish SR Tufts 10.45m
+9 IKPEAZU, Chidiebele FR Tufts 10.41m
+10 NAGAHAMA, Lisa FR Tufts 10.08m
+11 VALLEE, Emily FR RPI 10.00m
+12 EVANS, Elizabeth FR RPI 9.90m
+13 BERUBE, Lauren FR Bates NM
+#27 Men's Shot Put
+Follows Men's Hammer, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 QUISUMBING, Kevin JR Tufts 15.72m
+2 WOLTMANN, William FR MIT 15.56m
+3 FAKKEMA, Jon SR MIT 15.37m
+4 REX, John SO Bates 15.12m
+5 NALL, Ryan FR MIT 14.54m
+6 SHAPIRO, Mark JR RPI 14.25m
+7 BASINGER, Nathan FR MIT 13.91m
+8 DUPUIS, Luke SR RPI 13.80m
+9 GONZALEZ, John SO RPI 13.52m
+10 MENIO, Albert JR MIT 13.51m
+11 DAISEY, Dylan SO Tufts 13.47m
+12 MARINO, Dan SR Bates 13.30m
+13 OLIVERI, Marco JR RPI 13.15m
+14 EVERETT, John FR Bates 13.15m
+15 CAMPBELL, Zack SR Bates 12.75m
+16 PARK, Justin SO RPI 11.74m
+17 OHAKAM, Noble FR Tufts 11.51m
+18 TONER, Max FR RPI 10.73m
+#28 Women's Shot Put
+Follows Women's Discus, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 ADUKA, Nkemdilim SO Tufts 11.98m
+2 HUGHES, Katie SR Bates 11.74m
+3 DREXLER, Lorna SO RPI 11.45m
+4 IKPEAZU, Chidiebele FR Tufts 11.23m
+5 DRAKE, Evelyn JR Tufts 11.20m
+6 FOLK, Marissa SR RPI 10.94m
+7 PAPALIA, Lilly FR MIT 10.89m
+8 ZUREK, Katie SO RPI 10.60m
+9 JEBUTU, Folusho JR MIT 10.60m
+10 PAULINO, Genesis SO Bates 10.31m
+11 VANDEVELD, Margo FR Tufts 10.00m
+12 BRUENING, Jessey FR RPI 9.99m
+13 DESMITH, Kylene SR Tufts 9.22m
+14 BLISS, Scarlet SO Tufts 8.52m
+#29 Men's Hammer
+Follows Men's Discus, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 REX, John SO Bates 52.74m
+2 FAKKEMA, Jon SR MIT 51.68m
+3 SHAPIRO, Mark JR RPI 49.34m
+4 CAMPBELL, Zack SR Bates 49.22m
+5 QUISUMBING, Kevin JR Tufts 46.61m
+6 OLIVERI, Marco JR RPI 45.65m
+7 TREBISACCI, Christian JR Tufts 44.41m
+8 MENIO, Albert JR MIT 43.17m
+9 DAISEY, Dylan SO Tufts 42.93m
+10 HARRINGTON, Tyler SR Bates 42.90m
+11 MUDSE, Jonah FR RPI 41.64m
+12 NALL, Ryan FR MIT 41.09m
+13 BLAKE, Camden JR RPI 40.13m
+14 BASINGER, Nathan FR MIT 39.05m
+15 MARINO, Dan SR Bates 38.19m
+16 SMITH, Zack SO Bates 37.91m
+17 DUPUIS, Luke SR RPI 37.27m
+18 GONZALEZ, John SO RPI 36.62m
+19 WOLTMANN, William FR MIT 34.89m
+20 TONER, Max FR RPI 29.57m
+21 OHAKAM, Noble FR Tufts 27.87m
+22 WANG, Billy FR Tufts 25.31m
+23 GAILEY, Alex FR Bates NM
+24 EVERETT, John FR Bates NM
+BATES-MIT-RPI-TUFTS
+Cambridge, MA
+Morrison Track
+Host: MIT
+Saturday, April 06, 2019
+MEET OFFICIALS
+Meet Director:
+Halston Taylor
+Meet Referee:
+Steve Vaitones
+Timing:
+Justin Kuo
+OFFICIAL MEET REPORT
+printed: 4/3/2019 2:51 PM
+PERFORMANCE LIST
+DirectAthletics MeetPro 7
+#30 Women's Hammer
+Follow Men's Hammer, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 DRAKE, Evelyn JR Tufts 46.42m
+2 HUGHES, Katie SR Bates 46.30m
+3 JEBUTU, Folusho JR MIT 46.25m
+4 MCCORMACK-KUHMA SO MIT 42.54m
+5 DREXLER, Lorna SO RPI 41.07m
+6 DALEY, Morgan FR RPI 40.67m
+7 FOLK, Marissa SR RPI 38.47m
+8 PAULINO, Genesis SO Bates 38.09m
+9 ADUKA, Nkemdilim SO Tufts 38.00m
+10 INGLIN, Savannah FR MIT 34.96m
+11 PAPALIA, Lilly FR MIT 33.13m
+12 VANDEVELD, Margo FR Tufts 33.00m
+13 ZUREK, Katie SO RPI 31.85m
+14 OLIVER, Sarah JR Tufts 31.00m
+15 DAVIS, Laura FR RPI 29.84m
+16 BRUENING, Jessey FR RPI 27.23m
+17 NWANA, Tema SO MIT NM
+#31 Men's Discus
+12:00 in Hammer Cage, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 FAKKEMA, Jon SR MIT 47.72m
+2 SHAPIRO, Mark JR RPI 46.96m
+3 MENIO, Albert JR MIT 43.57m
+4 OLIVERI, Marco JR RPI 42.64m
+5 TREBISACCI, Christian JR Tufts 41.94m
+6 WOLTMANN, William FR MIT 40.88m
+7 BASINGER, Nathan FR MIT 40.48m
+8 DAISEY, Dylan SO Tufts 40.40m
+9 REX, John SO Bates 39.85m
+10 HARRINGTON, Tyler SR Bates 39.82m
+11 SMITH, Zack SO Bates 39.55m
+12 DUPUIS, Luke SR RPI 38.54m
+13 GONZALEZ, John SO RPI 37.19m
+14 NALL, Ryan FR MIT 36.11m
+15 MARINO, Dan SR Bates 35.21m
+16 CAMPBELL, Zack SR Bates 35.05m
+17 PARK, Justin SO RPI 34.06m
+18 BLAKE, Camden JR RPI 31.50m
+19 TONER, Max FR RPI 25.41m
+20 OHAKAM, Noble FR Tufts NM
+21 GAILEY, Alex FR Bates NM
+22 EVERETT, John FR Bates NM
+#32 Women's Discus
+12:00 on infield, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 ADUKA, Nkemdilim SO Tufts 38.77m
+2 JEBUTU, Folusho JR MIT 37.37m
+3 ZUREK, Katie SO RPI 36.74m
+4 FOLK, Marissa SR RPI 36.36m
+5 PAULINO, Genesis SO Bates 35.02m
+6 HUGHES, Katie SR Bates 34.88m
+7 IKPEAZU, Chidiebele FR Tufts 30.00m
+8 DALEY, Morgan FR RPI 29.63m
+9 PAPALIA, Lilly FR MIT 28.58m
+10 DAVIS, Laura FR RPI 26.59m
+11 VANDEVELD, Margo FR Tufts 26.00m
+12 BRUENING, Jessey FR RPI 24.29m
+13 STRAUSS, Ellie SO Bates 21.92m
+#35 Men's Javelin
+Follow Women's Javelin, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 HINTERMEISTER, Hen SR Tufts 60.45m
+2 HARRINGTON, Tyler SR Bates 55.97m
+3 SMITH, Zack SO Bates 55.66m
+4 WHITE, Evan FR RPI 54.95m
+5 PARK, Justin SO RPI 54.28m
+6 DITOMMASO, Frank SO RPI 51.61m
+7 VETERE, Joseph SR RPI 51.44m
+8 MAXWELL, Eddie SR RPI 50.92m
+9 WANG, Billy FR Tufts 43.73m
+10 BUTLER, Patrick JR RPI 43.34m
+11 WISE, Tim SO RPI 43.32m
+12 ABATE, Jordan JR Tufts 42.47m
+13 BORWICK, Hunter SO RPI 40.00m
+14 LAMBE, Desmond FR RPI 40.00m
+15 STEIN, Ben FR Tufts 37.85m
+16 MOLZAHN, Daniel JR RPI 35.00m
+17 KENNEDY, Joa SO MIT NM
+18 DRISCOLL, Copper FR MIT NM
+19 EMUNAH, Gavi SO Tufts NM
+#36 Women's Javelin
+12:00, nine to the final, 10:00 warmup
+Name Yr Team Mark
+1 KISSEL, Julia JR Tufts 39.81m
+2 GIGA, Mara SR RPI 37.21m
+3 LOGEE, Erin JR Tufts 34.37m
+4 DREXLER, Lorna SO RPI 32.28m
+5 TEUNISSE, Charlotte JR RPI 30.60m
+#36 Women's Javelin (cont'd)
+Name Yr Team Mark
+6 STRAUSS, Ellie SO Bates 29.49m
+7 MCCORMACK-KUHMA SO MIT 28.62m
+8 BURNS, Shelby SR Bates 25.05m
+9 SALKIND, Jillian SR RPI 24.00m
