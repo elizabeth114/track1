@@ -67,7 +67,7 @@ def get_next_meet_id(c):
         return next[0] +1
 
 def get_athlete_school(c, id):
-    return c.execute("""SELECT school FROM atheletes WHERE athlete_id =?""",(id,)).fetchone()[0]
+    return c.execute("""SELECT school FROM athletes WHERE athlete_id =?""",(id,)).fetchone()[0]
 
 def get_all_athletes(c):
     return c.execute("""SELECT * FROM athletes""").fetchall()
@@ -76,6 +76,8 @@ def get_all_athletes(c):
 def get_athletes_by_school(c, school):
     return c.execute("""SELECT * FROM athletes WHERE school=?""",(school,)).fetchall()
 
+def get_athlete_by_id(c, id):
+    return c.execute("""SELECT * FROM athletes WHERE athlete_id =?""",(id,)).fetchone()
 
 def get_athletes_by_name(c, first, last):
     return c.execute("""SELECT * FROM athletes WHERE first=? AND last=?""",(first,last)).fetchall()
@@ -109,6 +111,12 @@ def get_all_performances(c):
 def get_event_performances(c, event):
     return c.execute("""SELECT * FROM performances WHERE event=? ORDER BY mark DESC""", (event,)).fetchall()
 
+def add_athlete(c, first, last, school, gender, grad_year):
+    athlete_id = get_id_by_name_school_grade(c, first, last, school, grad_year)
+    if athlete_id is None:
+        athlete = Athlete(first, last, school, gender, grad_year)
+        athlete_id = athlete.to_database(c)
+    return athlete_id
 
 def drop_tables():
     conn = sqlite3.connect('example.db')
