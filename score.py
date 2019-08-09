@@ -78,8 +78,17 @@ def score_event(c, athletes, event, scoring, method):
 def performance_list_predictions(file_name):
     file = open(file_name, "r")
     f = file.readlines()
-    for i in range(120):
-        print(re.match(run_event_perf, f[i]))
+    index=0
+    while index <len(f):
+        match = re.match(run_event_perf, f[index]))
+        if match is not None:
+            match = match.groupdict()
+            athletes = []
+            index += 1
+            while re.match(run_event_perf, f[index])) is None:
+                
+        else:
+            index+=1
 
 
 

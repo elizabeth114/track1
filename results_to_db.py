@@ -39,7 +39,7 @@ def convert_from_tffrs(file_name, year=2019, month="01", day="01"):
                 print(perf)
                 if perf is not None:
                     perf = perf.groupdict()
-                    athlete_id = add_athlete(c, perf["first"].lower(), perf["last"].lower(), perf["school"].lower(), event_info["gender"].lower(), year+class_year_convert[perf["grade"].lower()])
+                    athlete_id = add_athlete(c, perf["first"].lower(), perf["last"].lower(), perf["school"].lower(), event_info["gender"].lower(), year+class_year_convert[perf["grade"].lower()]).get_athlete_id()
                     new_performance = Performance(event_info["event"].lower(), perf["mark"], athlete_id, str(year)+"-"+month+"-"+day, meet_id)
                     new_performance.to_database(c)
                 index += 1

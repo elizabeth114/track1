@@ -113,10 +113,10 @@ def get_event_performances(c, event):
 
 def add_athlete(c, first, last, school, gender, grad_year):
     athlete_id = get_id_by_name_school_grade(c, first, last, school, grad_year)
+    athlete = Athlete(first, last, school, gender, grad_year)
     if athlete_id is None:
-        athlete = Athlete(first, last, school, gender, grad_year)
         athlete_id = athlete.to_database(c)
-    return athlete_id
+    return athlete
 
 def drop_tables():
     conn = sqlite3.connect('example.db')
